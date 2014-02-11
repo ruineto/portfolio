@@ -1,0 +1,210 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="FinalProject.SiteMaster" %>
+
+<!DOCTYPE html>
+<html lang="en">
+<head runat="server">
+    <meta charset="utf-8" />
+    <title><%: Page.Title %></title>
+    <asp:PlaceHolder runat="server">
+        <%: Scripts.Render("~/bundles/modernizr") %>
+    </asp:PlaceHolder>
+    <webopt:BundleReference runat="server" Path="~/Content/css" />
+    <webopt:BundleReference ID="BundleReference1" runat="server" Path="https://github.com/indyplanets/flexnav/tree/master/css/flexnav.css" />
+    <link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+    <meta name="viewport" content="width=device-width" />
+    <asp:ContentPlaceHolder runat="server" ID="HeadContent" />
+    <link rel="stylesheet" href="http://code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css">
+    <link href="~/Content/css/m-styles.min.css" rel="stylesheet"> 
+    <link href="~/Content/css/checkboxStyle.css" rel="stylesheet">
+   
+</head>
+<body>
+    <form runat="server">
+        <asp:ScriptManager runat="server">
+            <Scripts>
+                <%--To learn more about bundling scripts in ScriptManager see http://go.microsoft.com/fwlink/?LinkID=272931&clcid=0x409 --%>
+                <%--Framework Scripts--%>
+
+
+                <asp:ScriptReference Name="jquery" />
+                <asp:ScriptReference Name="jquery.ui.combined" />
+                <asp:ScriptReference Name="WebForms.js" Assembly="System.Web" Path="~/Scripts/WebForms/WebForms.js" />
+                <asp:ScriptReference Name="WebUIValidation.js" Assembly="System.Web" Path="~/Scripts/WebForms/WebUIValidation.js" />
+                <asp:ScriptReference Name="MenuStandards.js" Assembly="System.Web" Path="~/Scripts/WebForms/MenuStandards.js" />
+                <asp:ScriptReference Name="GridView.js" Assembly="System.Web" Path="~/Scripts/WebForms/GridView.js" />
+                <asp:ScriptReference Name="DetailsView.js" Assembly="System.Web" Path="~/Scripts/WebForms/DetailsView.js" />
+                <asp:ScriptReference Name="TreeView.js" Assembly="System.Web" Path="~/Scripts/WebForms/TreeView.js" />
+                <asp:ScriptReference Name="WebParts.js" Assembly="System.Web" Path="~/Scripts/WebForms/WebParts.js" />
+                <asp:ScriptReference Name="Focus.js" Assembly="System.Web" Path="~/Scripts/WebForms/Focus.js" />
+                <asp:ScriptReference Name="WebFormsBundle" />
+              
+                 <%--Site Scripts--%>
+            </Scripts>
+        </asp:ScriptManager>
+        <header>
+            <div class="content-wrapper" id="headerWeb">
+                <div class="float-left">
+                    <img src="/Images/HouseLogo.png" style="width: 10%" />
+                    <a id="Title2" class="Title2" runat="server" href="~/">Your home in another dimension</a>
+                </div>
+                <div class="float-right">
+                    <asp:LoginView ID="LoginView1" runat="server" ViewStateMode="Disabled">
+                        <AnonymousTemplate>
+                            <div id='cssmenu'>
+                                <ul>
+                                    <li><a id="A3" runat="server" href="~/Account/Login.aspx">Entrar</a></li>
+                                    <li><a href="/Contact.aspx"><span>Contactos</span></a></li>
+                                </ul>
+                            </div>
+                        </AnonymousTemplate>
+                        <RoleGroups>
+                            <asp:RoleGroup Roles="Administrator">
+                                <ContentTemplate>
+                                    <div id='cssmenu'>
+                                        <ul>
+                                            <li>
+                                                <li class='has-sub last'>
+                                                    <a>
+                                                        Gestão
+                                                    </a>
+                                                    <ul id="Ul2">
+                                                        <li>
+                                                            <a runat="server" href="~/Pages/ManageDevices.aspx" title="Gerir Dispositivos">Gerir Dispositivos</a>
+                                                        </li>
+                                                        <li>
+                                                            <a runat="server" href="~/Pages/AdminPages/ManageUsers.aspx" title="Gerir Utilizadores">Gerir Utilizadores</a>
+                                                        </li>
+                                                        <li>
+                                                            <a runat="server" href="~/Pages/ManageHouses.aspx" title="Gerir Casas">Gerir Casas</a>
+                                                        </li>
+                                                    </ul>
+                                                </li>
+
+                                            </li>
+                                            <li>
+                                                <li class='has-sub last'>
+                                                    <a>
+                                                        <asp:LoginName ID="LoginName1" runat="server" />
+                                                    </a>
+                                                    <ul id="UserMenu">
+                                                        <li>
+                                                            <a id="A1" runat="server" class="username" href="~/Account/Manage.aspx" title="Manage your account">O Meu Perfil</a>
+                                                        </li>
+                                                        <li class='last'>
+                                                            <asp:LoginStatus ID="LoginStatus1" runat="server" LogoutAction="Redirect" LogoutText="Sair" LogoutPageUrl="~/" />
+                                                        </li>
+                                                    </ul>
+                                                </li>
+                                            </li>
+                                            <li><a href="/Contact.aspx"><span>Contactos</span></a></li>
+                                        </ul>
+                                    </div>
+                                </ContentTemplate>
+                            </asp:RoleGroup>
+                            <asp:RoleGroup Roles="ResidentManager">
+                                <ContentTemplate>
+                                    <div id='cssmenu'>
+                                        <ul>
+                                            <li><a href='/Pages/ResidentPages/RoomsView.aspx'><span>Geral</span></a></li>
+                                            <li>
+                                                <li class='has-sub last'>
+                                                    <a>
+                                                        Gestão
+                                                    </a>
+                                                    <ul id="Ul2">
+                                                        <li>
+                                                            <a id="A4" runat="server" href="~/Pages/ManageDevices.aspx" title="Gerir Dispositivos">Gerir Dispositivos</a>
+                                                        </li>
+                                                        <li>
+                                                            <a id="A6" runat="server" href="~/Pages/ManageHouses.aspx" title="Gerir Casas">Gerir Casas</a>
+                                                        </li>
+                                                    </ul>
+                                                </li>
+                                            </li>
+                                            <li>
+                                                <li class='has-sub last'>
+                                                    <a>
+                                                        <asp:LoginName ID="LoginName1" runat="server" />
+                                                    </a>
+                                                    <ul id="UserMenu">
+                                                        <li>
+                                                            <a id="A1" runat="server" class="username" href="~/Account/Manage.aspx" title="Manage your account">O Meu Perfil</a>
+                                                        </li>
+                                                        <li class='last'>
+                                                            <asp:LoginStatus ID="LoginStatus1" runat="server" LogoutAction="Redirect" LogoutText="Sair" LogoutPageUrl="~/" />
+                                                        </li>
+                                                    </ul>
+                                                </li>
+                                            </li>
+                                            <li><a href="/Contact.aspx"><span>Contactos</span></a></li>
+                                        </ul>
+                                    </div>
+                                </ContentTemplate>
+                            </asp:RoleGroup>
+                            <asp:RoleGroup Roles="Resident">
+                                <ContentTemplate>
+                                    <div id='cssmenu'>
+                                        <ul>
+                                            <li><a href='/Pages/ResidentPages/RoomsView.aspx'><span>Geral</span></a></li>
+                                            <li>
+                                                <li class='has-sub last'>
+                                                    <a>
+                                                        <asp:LoginName ID="LoginName2" runat="server" />
+                                                    </a>
+
+                                                    <ul id="Ul1">
+                                                        <li>
+                                                            <a id="A2" runat="server" class="username" href="~/Account/Manage.aspx" title="Manage your account">O Meu Perfil</a>
+                                                        </li>
+                                                        <li class='last'>
+                                                            <asp:LoginStatus ID="LoginStatus2" runat="server" LogoutAction="Redirect" LogoutText="Sair" LogoutPageUrl="~/" />
+                                                        </li>
+                                                    </ul>
+
+                                                </li>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </ContentTemplate>
+                            </asp:RoleGroup>
+                        </RoleGroups>
+                        <LoggedInTemplate>
+                        </LoggedInTemplate>
+                    </asp:LoginView>
+                </div>
+            </div>
+
+            <div class="content-wrapper" id="headerMobile">
+                <div class="float-left">
+                    <a href="About.aspx">
+                        <img src="/Images/HouseLogo.png" style="width: 25%" /></a>
+                </div>
+                <div class="float-right" style="text-align: right;">
+                    <nav>
+                        <a href="#" id="menu-icon">
+                            <img src="/Images/mobile-nav.png" /></a>
+                        <ul>
+                            <li><a href="#" class="current">Geral</a></li>
+                            <li><a href="#">Estado</a></li>
+                            <li><a href="#">Manutenção</a></li>
+                        </ul>
+                    </nav>
+                </div>
+            </div>
+        </header>
+        <div id="body">
+            <section class="content-wrapper main-content clear-fix">
+                <asp:ContentPlaceHolder runat="server" ID="MainContent" />
+            </section>
+        </div>
+        <footer>
+            <div class="content-wrapper">
+                <div class="float-left">
+                    <p>&copy; <%: DateTime.Now.Year %> - UA - DETI - EDC|AMS </p>
+                    <p> Rui Neto - 42520 - rui.neto@ua.pt </p>
+                </div>
+            </div>
+        </footer>
+    </form>
+</body>
+</html>

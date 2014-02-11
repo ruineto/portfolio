@@ -1,0 +1,11 @@
+CREATE PROCEDURE [dbo].[InsertXmlDoc]
+(
+@theDoc xml
+)
+AS
+BEGIN
+SET NOCOUNT OFF;
+INSERT INTO [XMLDoc] ([theDoc]) VALUES (@theDoc);
+SELECT id, theDoc FROM XMLDoc WHERE (id = SCOPE_IDENTITY())
+END
+GO

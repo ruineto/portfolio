@@ -1,0 +1,50 @@
+	<!DOCTYPE html>
+	<html>
+	  <head>
+		<title>VIKI | Home</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" charset="UTF-8">
+		<!-- Bootstrap --><!-- Custom CSS for the '4 Col Portfolio' Template -->
+		<link href="css/4-col-portfolio.css" rel="stylesheet">
+		<link href="css/bootstrap.min.css" rel="stylesheet">
+		<link href="css/theme.css" rel="stylesheet">
+
+		<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+		<script src="https://code.jquery.com/jquery.js"></script>
+		<!-- Include all compiled plugins (below), or include individual files as needed -->
+		<script src="js/bootstrap.min.js"></script>
+		<!-- custom scripts-->
+		<script src="js/scripts.js"></script>
+		<script src="js/Rooms.js"></script>
+
+	  </head>
+
+	  <header>
+		<div id="navigation-bar"></div>
+	  </header>
+	  
+	  <body>
+
+		<div id="navigation-bar" style="margin-top:60px"></div>
+	
+			<!-- Split button -->
+		<div id="viewmenu" class="container" style="margin-bottom:7px">
+
+			<div class="row">
+				<div class="col-lg-12 col-md-12 col-sm-12 " ></div>
+					<div class="btn-group">
+					  <button type="button" class="btn">Vistas</button>
+					  <button type="button" class="btn dropdown-toggle" data-toggle="dropdown">
+						<span class="caret"></span>
+						<span class="sr-only">Toggle Dropdown</span>
+					  </button>
+					  <ul class="dropdown-menu" role="menu">
+						<li><a href="#" onClick="ChangeViewMode(0)">Grelha</a></li>
+						<li><a href="#" onClick="ChangeViewMode(1)">Cameras</a></li>
+						<li><a href="#" onClick="ChangeViewMode(2)">Lista</a></li>
+					  </ul>
+					</div>
+			</div>
+		</div>
+		<div id="gridview"></div>
+	  </body>
+	</html>

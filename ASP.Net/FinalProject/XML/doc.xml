@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="StateTransform.xslt"?>
+
+<home>
+  <name>Apartamento Teste</name> 
+  <latitude>41.633854</latitude> 
+  <longitude>-8.659508</longitude> 
+ <rooms>
+ <room>
+  <name>Sala de Estar</name> 
+ <devices>
+ <device>
+  <name>Porta 1</name> 
+  <type>Porta</type> 
+  <state>on</state> 
+  </device>
+ <device>
+  <name>Janela 2</name> 
+  <type>Janela</type> 
+  <state>on</state> 
+  </device>
+  </devices>
+  </room>
+ <room>
+  <name>Cozinha</name> 
+ <devices>
+ <device>
+ <name>Porta 2</name> 
+  <type>Porta</type> 
+  <state>off</state> 
+  </device>
+ <device>
+  <name>Microondas</name> 
+  <type>Electrodomestico</type> 
+  <state>off</state> 
+  </device>
+  </devices>
+  </room>
+ <room>
+  <name>Casa de Banho</name> 
+ <devices>
+ <device>
+  <name>Porta 3</name> 
+  <type>Porta</type> 
+  <state>off</state> 
+  </device>
+  </devices>
+  </room>
+ <room>
+  <name>Quarto Principal</name> 
+  </room>
+ <room>
+  <name>Quarto de Hospedes</name> 
+ <devices>
+ <device>
+  <name>Janela</name> 
+  <type>Janela</type> 
+  <state>off</state> 
+  </device>
+  </devices>
+  </room>
+  </rooms>
+  </home>

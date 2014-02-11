@@ -1,0 +1,163 @@
+C:\Users\Rui\Documents\Visual Studio 2012\Projects\EDC_FinalProject\FinalProject\bin\FinalProject.dll
+C:\Users\Rui\Documents\Visual Studio 2012\Projects\EDC_FinalProject\FinalProject\bin\FinalProject.pdb
+C:\Users\Rui\Documents\Visual Studio 2012\Projects\EDC_FinalProject\FinalProject\bin\Antlr3.Runtime.dll
+C:\Users\Rui\Documents\Visual Studio 2012\Projects\EDC_FinalProject\FinalProject\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Rui\Documents\Visual Studio 2012\Projects\EDC_FinalProject\FinalProject\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\Rui\Documents\Visual Studio 2012\Projects\EDC_FinalProject\FinalProject\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Rui\Documents\Visual Studio 2012\Projects\EDC_FinalProject\FinalProject\bin\DotNetOpenAuth.Core.dll
+C:\Users\Rui\Documents\Visual Studio 2012\Projects\EDC_FinalProject\FinalProject\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Rui\Documents\Visual Studio 2012\Projects\EDC_FinalProject\FinalProject\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Rui\Documents\Visual Studio 2012\Projects\EDC_FinalProject\FinalProject\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Rui\Documents\Visual Studio 2012\Projects\EDC_FinalProject\FinalProject\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Rui\Documents\Visual Studio 2012\Projects\EDC_FinalProject\FinalProject\bin\EntityFramework.dll
+C:\Users\Rui\Documents\Visual Studio 2012\Projects\EDC_FinalProject\FinalProject\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Rui\Documents\Visual Studio 2012\Projects\EDC_FinalProject\FinalProject\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\Rui\Documents\Visual Studio 2012\Projects\EDC_FinalProject\FinalProject\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Rui\Documents\Visual Studio 2012\Projects\EDC_FinalProject\FinalProject\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Rui\Documents\Visual Studio 2012\Projects\EDC_FinalProject\FinalProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Rui\Documents\Visual Studio 2012\Projects\EDC_FinalProject\FinalProject\bin\System.Web.Optimization.dll
+C:\Users\Rui\Documents\Visual Studio 2012\Projects\EDC_FinalProject\FinalProject\bin\System.Web.Providers.dll
+C:\Users\Rui\Documents\Visual Studio 2012\Projects\EDC_FinalProject\FinalProject\bin\WebGrease.dll
+C:\Users\Rui\Documents\Visual Studio 2012\Projects\EDC_FinalProject\FinalProject\bin\EntityFramework.xml
+C:\Users\Rui\Documents\Visual Studio 2012\Projects\EDC_FinalProject\FinalProject\bin\DotNetOpenAuth.Core.xml
+C:\Users\Rui\Documents\Visual Studio 2012\Projects\EDC_FinalProject\FinalProject\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Rui\Documents\Visual Studio 2012\Projects\EDC_FinalProject\FinalProject\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Rui\Documents\Visual Studio 2012\Projects\EDC_FinalProject\FinalProject\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Rui\Documents\Visual Studio 2012\Projects\EDC_FinalProject\FinalProject\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Rui\Documents\Visual Studio 2012\Projects\EDC_FinalProject\FinalProject\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Rui\Documents\Visual Studio 2012\Projects\EDC_FinalProject\FinalProject\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+C:\Users\Rui\Documents\Visual Studio 2012\Projects\EDC_FinalProject\FinalProject\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Rui\Documents\Visual Studio 2012\Projects\EDC_FinalProject\FinalProject\obj\Debug\FinalProject.csprojResolveAssemblyReference.cache
+C:\Users\Rui\Documents\Visual Studio 2012\Projects\EDC_FinalProject\FinalProject\obj\Debug\FinalProject.dll
+C:\Users\Rui\Documents\Visual Studio 2012\Projects\EDC_FinalProject\FinalProject\obj\Debug\FinalProject.pdb
+D:\Mestrado\Projects\edc_trabfinal\FinalProject\bin\FinalProject.dll
+D:\Mestrado\Projects\edc_trabfinal\FinalProject\bin\FinalProject.pdb
+D:\Mestrado\Projects\edc_trabfinal\FinalProject\bin\Antlr3.Runtime.dll
+D:\Mestrado\Projects\edc_trabfinal\FinalProject\bin\AspNet.ScriptManager.jQuery.dll
+D:\Mestrado\Projects\edc_trabfinal\FinalProject\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+D:\Mestrado\Projects\edc_trabfinal\FinalProject\bin\DotNetOpenAuth.AspNet.dll
+D:\Mestrado\Projects\edc_trabfinal\FinalProject\bin\DotNetOpenAuth.Core.dll
+D:\Mestrado\Projects\edc_trabfinal\FinalProject\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\Mestrado\Projects\edc_trabfinal\FinalProject\bin\DotNetOpenAuth.OAuth.dll
+D:\Mestrado\Projects\edc_trabfinal\FinalProject\bin\DotNetOpenAuth.OpenId.dll
+D:\Mestrado\Projects\edc_trabfinal\FinalProject\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\Mestrado\Projects\edc_trabfinal\FinalProject\bin\EntityFramework.dll
+D:\Mestrado\Projects\edc_trabfinal\FinalProject\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Mestrado\Projects\edc_trabfinal\FinalProject\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+D:\Mestrado\Projects\edc_trabfinal\FinalProject\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Mestrado\Projects\edc_trabfinal\FinalProject\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Mestrado\Projects\edc_trabfinal\FinalProject\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Mestrado\Projects\edc_trabfinal\FinalProject\bin\Microsoft.Web.Infrastructure.dll
+D:\Mestrado\Projects\edc_trabfinal\FinalProject\bin\System.Web.Optimization.dll
+D:\Mestrado\Projects\edc_trabfinal\FinalProject\bin\System.Web.Providers.dll
+D:\Mestrado\Projects\edc_trabfinal\FinalProject\bin\WebGrease.dll
+D:\Mestrado\Projects\edc_trabfinal\FinalProject\bin\EntityFramework.xml
+D:\Mestrado\Projects\edc_trabfinal\FinalProject\bin\DotNetOpenAuth.Core.xml
+D:\Mestrado\Projects\edc_trabfinal\FinalProject\bin\DotNetOpenAuth.OAuth.xml
+D:\Mestrado\Projects\edc_trabfinal\FinalProject\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\Mestrado\Projects\edc_trabfinal\FinalProject\bin\DotNetOpenAuth.OpenId.xml
+D:\Mestrado\Projects\edc_trabfinal\FinalProject\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\Mestrado\Projects\edc_trabfinal\FinalProject\bin\DotNetOpenAuth.AspNet.xml
+D:\Mestrado\Projects\edc_trabfinal\FinalProject\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+D:\Mestrado\Projects\edc_trabfinal\FinalProject\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Mestrado\Projects\edc_trabfinal\FinalProject\obj\Debug\FinalProject.csprojResolveAssemblyReference.cache
+D:\Mestrado\Projects\edc_trabfinal\FinalProject\obj\Debug\FinalProject.dll
+D:\Mestrado\Projects\edc_trabfinal\FinalProject\obj\Debug\FinalProject.pdb
+D:\Mestrado\Projects\EDCFINAL\FinalProject\bin\FinalProject.dll
+D:\Mestrado\Projects\EDCFINAL\FinalProject\bin\FinalProject.pdb
+D:\Mestrado\Projects\EDCFINAL\FinalProject\bin\AjaxControlToolkit.dll
+D:\Mestrado\Projects\EDCFINAL\FinalProject\bin\AjaxMin.dll
+D:\Mestrado\Projects\EDCFINAL\FinalProject\bin\Antlr3.Runtime.dll
+D:\Mestrado\Projects\EDCFINAL\FinalProject\bin\AspNet.ScriptManager.jQuery.dll
+D:\Mestrado\Projects\EDCFINAL\FinalProject\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+D:\Mestrado\Projects\EDCFINAL\FinalProject\bin\DotNetOpenAuth.AspNet.dll
+D:\Mestrado\Projects\EDCFINAL\FinalProject\bin\DotNetOpenAuth.Core.dll
+D:\Mestrado\Projects\EDCFINAL\FinalProject\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\Mestrado\Projects\EDCFINAL\FinalProject\bin\DotNetOpenAuth.OAuth.dll
+D:\Mestrado\Projects\EDCFINAL\FinalProject\bin\DotNetOpenAuth.OpenId.dll
+D:\Mestrado\Projects\EDCFINAL\FinalProject\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\Mestrado\Projects\EDCFINAL\FinalProject\bin\EntityFramework.dll
+D:\Mestrado\Projects\EDCFINAL\FinalProject\bin\HtmlAgilityPack.dll
+D:\Mestrado\Projects\EDCFINAL\FinalProject\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Mestrado\Projects\EDCFINAL\FinalProject\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+D:\Mestrado\Projects\EDCFINAL\FinalProject\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Mestrado\Projects\EDCFINAL\FinalProject\bin\Microsoft.Data.Edm.dll
+D:\Mestrado\Projects\EDCFINAL\FinalProject\bin\Microsoft.Data.OData.dll
+D:\Mestrado\Projects\EDCFINAL\FinalProject\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Mestrado\Projects\EDCFINAL\FinalProject\bin\Microsoft.Web.Infrastructure.dll
+D:\Mestrado\Projects\EDCFINAL\FinalProject\bin\Microsoft.WindowsAzure.Configuration.dll
+D:\Mestrado\Projects\EDCFINAL\FinalProject\bin\Microsoft.WindowsAzure.Storage.dll
+D:\Mestrado\Projects\EDCFINAL\FinalProject\bin\System.Spatial.dll
+D:\Mestrado\Projects\EDCFINAL\FinalProject\bin\System.Web.Optimization.dll
+D:\Mestrado\Projects\EDCFINAL\FinalProject\bin\System.Web.Providers.dll
+D:\Mestrado\Projects\EDCFINAL\FinalProject\bin\WebGrease.dll
+D:\Mestrado\Projects\EDCFINAL\FinalProject\bin\HtmlAgilityPack.pdb
+D:\Mestrado\Projects\EDCFINAL\FinalProject\bin\HtmlAgilityPack.xml
+D:\Mestrado\Projects\EDCFINAL\FinalProject\bin\Microsoft.Data.Edm.xml
+D:\Mestrado\Projects\EDCFINAL\FinalProject\bin\Microsoft.Data.OData.xml
+D:\Mestrado\Projects\EDCFINAL\FinalProject\bin\Microsoft.WindowsAzure.Storage.xml
+D:\Mestrado\Projects\EDCFINAL\FinalProject\bin\System.Spatial.xml
+D:\Mestrado\Projects\EDCFINAL\FinalProject\bin\EntityFramework.xml
+D:\Mestrado\Projects\EDCFINAL\FinalProject\bin\DotNetOpenAuth.Core.xml
+D:\Mestrado\Projects\EDCFINAL\FinalProject\bin\DotNetOpenAuth.OAuth.xml
+D:\Mestrado\Projects\EDCFINAL\FinalProject\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\Mestrado\Projects\EDCFINAL\FinalProject\bin\DotNetOpenAuth.OpenId.xml
+D:\Mestrado\Projects\EDCFINAL\FinalProject\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\Mestrado\Projects\EDCFINAL\FinalProject\bin\DotNetOpenAuth.AspNet.xml
+D:\Mestrado\Projects\EDCFINAL\FinalProject\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+D:\Mestrado\Projects\EDCFINAL\FinalProject\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Mestrado\Projects\EDCFINAL\FinalProject\bin\ar\AjaxControlToolkit.resources.dll
+D:\Mestrado\Projects\EDCFINAL\FinalProject\bin\cs\AjaxControlToolkit.resources.dll
+D:\Mestrado\Projects\EDCFINAL\FinalProject\bin\de\AjaxControlToolkit.resources.dll
+D:\Mestrado\Projects\EDCFINAL\FinalProject\bin\es\AjaxControlToolkit.resources.dll
+D:\Mestrado\Projects\EDCFINAL\FinalProject\bin\fr\AjaxControlToolkit.resources.dll
+D:\Mestrado\Projects\EDCFINAL\FinalProject\bin\he\AjaxControlToolkit.resources.dll
+D:\Mestrado\Projects\EDCFINAL\FinalProject\bin\hi\AjaxControlToolkit.resources.dll
+D:\Mestrado\Projects\EDCFINAL\FinalProject\bin\it\AjaxControlToolkit.resources.dll
+D:\Mestrado\Projects\EDCFINAL\FinalProject\bin\ja\AjaxControlToolkit.resources.dll
+D:\Mestrado\Projects\EDCFINAL\FinalProject\bin\ko\AjaxControlToolkit.resources.dll
+D:\Mestrado\Projects\EDCFINAL\FinalProject\bin\nl\AjaxControlToolkit.resources.dll
+D:\Mestrado\Projects\EDCFINAL\FinalProject\bin\pl\AjaxControlToolkit.resources.dll
+D:\Mestrado\Projects\EDCFINAL\FinalProject\bin\pt\AjaxControlToolkit.resources.dll
+D:\Mestrado\Projects\EDCFINAL\FinalProject\bin\ru\AjaxControlToolkit.resources.dll
+D:\Mestrado\Projects\EDCFINAL\FinalProject\bin\tr-TR\AjaxControlToolkit.resources.dll
+D:\Mestrado\Projects\EDCFINAL\FinalProject\bin\zh-CHS\AjaxControlToolkit.resources.dll
+D:\Mestrado\Projects\EDCFINAL\FinalProject\bin\zh-CHT\AjaxControlToolkit.resources.dll
+D:\Mestrado\Projects\EDCFINAL\FinalProject\bin\de\Microsoft.Data.Edm.resources.dll
+D:\Mestrado\Projects\EDCFINAL\FinalProject\bin\es\Microsoft.Data.Edm.resources.dll
+D:\Mestrado\Projects\EDCFINAL\FinalProject\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\Mestrado\Projects\EDCFINAL\FinalProject\bin\it\Microsoft.Data.Edm.resources.dll
+D:\Mestrado\Projects\EDCFINAL\FinalProject\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\Mestrado\Projects\EDCFINAL\FinalProject\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\Mestrado\Projects\EDCFINAL\FinalProject\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\Mestrado\Projects\EDCFINAL\FinalProject\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\Mestrado\Projects\EDCFINAL\FinalProject\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\Mestrado\Projects\EDCFINAL\FinalProject\bin\de\Microsoft.Data.OData.resources.dll
+D:\Mestrado\Projects\EDCFINAL\FinalProject\bin\es\Microsoft.Data.OData.resources.dll
+D:\Mestrado\Projects\EDCFINAL\FinalProject\bin\fr\Microsoft.Data.OData.resources.dll
+D:\Mestrado\Projects\EDCFINAL\FinalProject\bin\it\Microsoft.Data.OData.resources.dll
+D:\Mestrado\Projects\EDCFINAL\FinalProject\bin\ja\Microsoft.Data.OData.resources.dll
+D:\Mestrado\Projects\EDCFINAL\FinalProject\bin\ko\Microsoft.Data.OData.resources.dll
+D:\Mestrado\Projects\EDCFINAL\FinalProject\bin\ru\Microsoft.Data.OData.resources.dll
+D:\Mestrado\Projects\EDCFINAL\FinalProject\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\Mestrado\Projects\EDCFINAL\FinalProject\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\Mestrado\Projects\EDCFINAL\FinalProject\bin\de\System.Spatial.resources.dll
+D:\Mestrado\Projects\EDCFINAL\FinalProject\bin\es\System.Spatial.resources.dll
+D:\Mestrado\Projects\EDCFINAL\FinalProject\bin\fr\System.Spatial.resources.dll
+D:\Mestrado\Projects\EDCFINAL\FinalProject\bin\it\System.Spatial.resources.dll
+D:\Mestrado\Projects\EDCFINAL\FinalProject\bin\ja\System.Spatial.resources.dll
+D:\Mestrado\Projects\EDCFINAL\FinalProject\bin\ko\System.Spatial.resources.dll
+D:\Mestrado\Projects\EDCFINAL\FinalProject\bin\ru\System.Spatial.resources.dll
+D:\Mestrado\Projects\EDCFINAL\FinalProject\bin\zh-Hans\System.Spatial.resources.dll
+D:\Mestrado\Projects\EDCFINAL\FinalProject\bin\zh-Hant\System.Spatial.resources.dll
+D:\Mestrado\Projects\EDCFINAL\FinalProject\obj\Debug\FinalProject.csprojResolveAssemblyReference.cache
+D:\Mestrado\Projects\EDCFINAL\FinalProject\obj\Debug\FinalProject.dll
+D:\Mestrado\Projects\EDCFINAL\FinalProject\obj\Debug\FinalProject.pdb
+D:\Mestrado\Projects\EDCFINAL\FinalProject\bin\Scripts\js\jquery.cookie.js
+D:\Mestrado\Projects\EDCFINAL\FinalProject\bin\CustomTextEncoder.dll
+D:\Mestrado\Projects\EDCFINAL\FinalProject\bin\ISO88591Binding.dll
+D:\Mestrado\Projects\EDCFINAL\FinalProject\bin\CustomTextEncoder.pdb
+D:\Mestrado\Projects\EDCFINAL\FinalProject\bin\ISO88591Binding.pdb
+C:\Users\Rui\Documents\Visual Studio 2012\Projects\EDC_FinalProject\FinalProject\bin\Scripts\js\jquery.cookie.js
+C:\Users\Rui\Documents\Visual Studio 2012\Projects\EDC_FinalProject\FinalProject\bin\CustomTextEncoder.pdb
+C:\Users\Rui\Documents\Visual Studio 2012\Projects\EDC_FinalProject\FinalProject\bin\ISO88591Binding.pdb

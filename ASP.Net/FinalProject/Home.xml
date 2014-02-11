@@ -1,0 +1,231 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<home>
+  <name>Moradia Santos</name>
+  <id>ABC123</id>
+  <location>
+    <latitude>40.633854</latitude>
+    <longitude>-8.659508</longitude>
+  </location>
+  <rooms>
+    <room>
+      <name>Sala de Estar</name>
+      <info>
+        <temp unit="C">18</temp>
+        <energy unit="kwh">0.65</energy>
+        <humidity unit="%">57</humidity>
+      </info>
+      <alarms>
+        <alarm>
+          <type>security</type>
+          <description>Alarme da</description>
+          <state>on</state>
+          <associativity>3</associativity>
+        </alarm>
+        <alarm>
+          <type>security</type>
+          <state>on</state>
+        </alarm>
+      </alarms>
+      <devices>
+        <device id="1">
+          <name>Porta 1</name>
+          <type>Porta</type>
+          <!-- on | off | locked -->
+          <state>on</state>
+        </device>
+        <device id="2">
+          <name>Porta 2</name>
+          <type>Porta</type>
+          <state>off</state>
+        </device>
+        <device id="3">
+          <name>Janela 1</name>
+          <type>Janela</type>
+          <state>off</state>
+        </device>
+        <device id="4">
+          <name>Candeeiro 1</name>
+          <type>Lampada</type>
+          <state>on</state>
+          <intensity>5</intensity>
+          <!-- 0 a 10 -->
+        </device>
+      </devices>
+    </room>
+    <room>
+      <name>Cozinha</name>
+      <info>
+        <temp unit="C">19</temp>
+        <energy unit="kwh">1.05</energy>
+        <humidity unit="%">64</humidity>
+      </info>
+      <devices>
+        <device id="5">
+          <name>Porta 1</name>
+          <type>Porta</type>
+          <state>on</state>
+          <!-- on | off | locked -->
+        </device>
+        <device id="6">
+          <name>Janela 1</name>
+          <type>Janela</type>
+          <state>on</state>
+          <!-- on | off -->
+          <alarm>on</alarm>
+        </device>
+        <device id="7">
+          <name>Candeeiro 1</name>
+          <type>Lampada</type>
+          <state>on</state>
+          <intensity>8</intensity>
+          <!-- 0 a 10 -->
+        </device>
+        <device id="8">
+          <name>Maquina de Café</name>
+          <type>Electrodomestico</type>
+          <state>on</state>
+        </device>
+      </devices>
+    </room>
+    <room>
+      <name>Quarto Principal</name>
+      <info>
+        <temp unit="C">21</temp>
+        <energy unit="kwh">0.3</energy>
+        <humidity unit="%">45</humidity>
+      </info>
+      <devices>
+        <device id="9">
+          <name>Porta 1</name>
+          <type>Porta</type>
+          <state>on</state>
+          <!-- on | off | locked -->
+        </device>
+        <device id="10">
+          <name>Janela 1</name>
+          <type>Janela</type>
+          <state>off</state>
+        </device>
+        <device id="11">
+          <name>Janela 2</name>
+          <type>Janela</type>
+          <state>on</state>
+        </device>
+        <device id="12">
+          <name>Candeeiro 1</name>
+          <type>Lampada</type>
+          <state>off</state>
+          <intensity>8</intensity>
+          <!-- 0 a 10 -->
+        </device>
+      </devices>
+    </room>
+    <room>
+      <name>Quarto da Rita</name>
+      <info>
+        <temp unit="C">21</temp>
+        <energy unit="kwh">0.2</energy>
+        <humidity unit="%">42</humidity>
+      </info>
+      <devices>
+        <device id="13">
+          <name>Porta 1</name>
+          <type>Porta</type>
+          <state>on</state>
+          <!-- on | off | locked -->
+        </device>
+        <device id="14">
+          <name>Janela 1</name>
+          <type>Janela</type>
+          <state>on</state>
+        </device>
+        <device id="15">
+          <name>Janela 2</name>
+          <type>Janela</type>
+          <state>on</state>
+        </device>
+        <device id="16">
+          <name>Candeeiro 1</name>
+          <type>Lampada</type>
+          <state>off</state>
+          <intensity>8</intensity>
+          <!-- 0 a 10 -->
+        </device>
+      </devices>
+    </room>
+    <room>
+      <name>Casa de Banho</name>
+      <info>
+        <temp unit="C">20</temp>
+        <energy unit="kwh">0.4</energy>
+        <humidity unit="%">76</humidity>
+      </info>
+      <devices>
+        <device id="17">
+          <name>Porta 1</name>
+          <type>Porta</type>
+          <state>on</state>
+          <!-- on | off | locked -->
+        </device>
+        <device id="18">
+          <name>Janela 2</name>
+          <type>Janela</type>
+          <state>on</state>
+        </device>
+        <device id="19">
+          <name>Candeeiro</name>
+          <type>Lampada</type>
+          <state>off</state>
+          <intensity>8</intensity>
+          <!-- 0 a 10 -->
+        </device>
+      </devices>
+    </room>
+    <room>
+      <name>Garagem</name>
+      <info>
+        <temp unit="C">15</temp>
+        <energy unit="kwh">0.3</energy>
+        <humidity unit="%">70</humidity>
+      </info>
+      <devices>
+        <device id="20">
+          <name>Porta 1</name>
+          <type>Porta</type>
+          <state>on</state>
+          <!-- on | off | locked -->
+        </device>
+        <device id="20">
+          <name>Portão</name>
+          <type>Porta</type>
+          <state>locked</state>
+          <!-- on | off | locked -->
+        </device>
+        <device id="21">
+          <name>Candeeiro</name>
+          <type>Lampada</type>
+          <state>off</state>
+          <intensity>8</intensity>
+          <!-- 0 a 10 -->
+        </device>
+      </devices>
+    </room>
+    <room>
+      <name>Exterior</name>
+      <devices>
+        <device id="22">
+          <name>Portão</name>
+          <type>Porta</type>
+          <state>locked</state>
+          <!-- on | off | locked -->
+        </device>
+        <device id="22">
+          <name>Entrada</name>
+          <type>Porta</type>
+          <state>locked</state>
+          <!-- on | off | locked -->
+        </device>
+      </devices>
+    </room>
+  </rooms>
+</home>

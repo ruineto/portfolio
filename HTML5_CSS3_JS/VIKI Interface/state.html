@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+	<title>VIKI | Home</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" charset="UTF-8">
+	<!-- Bootstrap --><!-- Custom CSS for the '4 Col Portfolio' Template -->
+	<link href="css/4-col-portfolio.css" rel="stylesheet">
+	<link href="css/bootstrap.min.css" rel="stylesheet">
+	<link rel="stylesheet" href="css/bootstrap-switch.css" />
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+	<script src="https://code.jquery.com/jquery.js"></script>
+	<!-- Include all compiled plugins (below), or include individual files as needed -->
+	<script src="js/bootstrap.min.js"></script>
+	<!-- custom scripts-->
+	<script src="js/scripts.js"></script>
+	<script src="js/Rooms.js"></script>
+	<script src="js/bootstrap-switch.min.js"></script>
+
+</head>
+<body>
+	<header>
+		<div id="navigation-bar"></div>
+	</header>
+
+	<div class="container" style="margin-top:60px;">
+		<div class="row col-md-1"></div>
+		<div class="row col-md-10">
+			<h3 class="page-header" >Dispositivos</h3>
+			</br>
+			<table class="table" >
+				<thead style="font-text:20px;">
+					<tr>
+						<th>Tipo</th>
+						<th>ID</th>
+						<th>Localização</th>
+						<th>Estado</th>
+						<th></th>
+					</tr>
+				</thead>
+				<tbody>
+					<tr>
+						<td>Porta</td>
+						<td>1</td>
+						<td>Sala</td>
+						<td><span class="label label-success">Activo</span></td>
+						<td>
+							<div class="make-switch switch-small" rel="tooltip" title="Trancar porta." data-on="success" data-off="danger">
+								<input type="checkbox" checked>
+							</div>
+						</td>
+					</tr>
+					<tr>
+						<td>Porta</td>
+						<td>2</td>
+						<td>Sala</td>
+						<td><span class="label label-success">Activo</span></td>
+						<td>
+							<div class="make-switch switch-small" rel="tooltip" title="Trancar porta." data-on="success" data-off="danger">
+								<input type="checkbox" checked>
+							</div>
+						</td>
+					</tr>
+					<tr>
+						<td>Janela</td>
+						<td>3</td>
+						<td>Sala</td>
+						<td><span class="label label-danger">Desactivo</span></td>
+						<td>
+							<div class="make-switch switch-small" rel="tooltip" title="Trancar porta." data-on="success" data-off="danger">
+								<input type="checkbox" checked>
+							</div>
+						</td>
+					</tr>
+					<tr>
+						<td>Porta</td>
+						<td>4</td>
+						<td>Quarto Principal</td>
+						<td><span class="label label-success">Activo</span></td>
+						<td>
+							<div class="make-switch switch-small" rel="tooltip" title="Trancar porta." data-on="success" data-off="danger">
+								<input type="checkbox" checked>
+							</div>
+						</td>
+					</tr>
+					<tr>
+						<td>Alarme</td>
+						<td>5</td>
+						<td>Sala - Janela</td>
+						<td><span class="label label-success">Activo</span></td>
+						<td>
+							<div class="make-switch switch-small" rel="tooltip" title="Trancar porta." data-on="success" data-off="danger">
+								<input type="checkbox" checked>
+							</div>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+		</div>
+		<div class="row col-md-1"></div>
+	</div>
+
+	<div class="container" id="dispAddRem">
+		<div class="row col-md-2"></div>
+		<div class="row col-md-8">
+			<div class="container">
+			    <div class="row">
+					<div class="col-md-8">
+			            <div class="panel panel-default" style="background:#cecece;">
+			                <div class="panel-body">                
+			                    <form accept-charset="UTF-8" action="" method="POST" style="padding-bottom:2%;" >
+			                    	<div class="row col-md-12" >
+			                			<strong>Adicionar</strong>
+			                		</div>
+			                		<div class="row col-md-12" style="margin-top:2%;">
+							        	<div class="input-group">
+											<span class="input-group-addon">ID</span>
+										  	<input type="text" class="form-control">
+										</div>
+						            </div>
+			                    	<div class="row col-md-12" style="margin-top:2%;">
+							        	<div class="input-group">
+											<span class="input-group-addon">Tipo</span>
+										  	<input type="text" class="form-control">
+										</div>
+						            </div>
+						            <div class="row col-md-12" style="margin-top:2%;">
+							        	<div class="input-group">
+											<span class="input-group-addon">Localização</span>
+										  	<input type="text" class="form-control">
+										</div>
+						            </div>
+						            <div class="row col-md-12" style="margin-top:2%;">
+						            	<div class="row col-md-11"></div>
+						            	<div class="row col-md-1">
+							        		<button class="btn btn-success" type="submit">Adicionar</button>
+							        	</div>
+							        	
+						            </div> 
+			                    </form>
+			                <form accept-charset="UTF-8" action="" method="POST" style="padding:2%;" >
+			                	<div class="row col-md-12" ><hr>
+			                		<strong>Remover</strong>
+			                	</div>
+								<div class="row col-md-12" style="margin-top:2%;">
+							        	<div class="input-group">
+											<span class="input-group-addon">ID</span>
+										  	<div>
+												<select class="form-control">
+													<option>Porta ID:1</option>
+													<option>Porta ID:2</option>
+													<option>Janela ID:3</option>
+													<option>Porta ID:4</option>
+													<option>Alarme ID:5</option>
+												</select>
+											</div>
+										</div>
+						            </div>
+						            <div class="row col-md-12" style="margin-top:2%;">
+						            <div class="row col-md-11"></div>
+						            	<div class="row col-md-1">
+							        	<button class="btn btn-danger" type="submit">Eliminar</button>
+							        </div>
+						            </div> 
+						        </div>
+						        </div>
+			                    </form>
+			                </div>
+			            </div>
+			        </div>
+				</div>
+			</div>
+		</div>
+		<div class="row col-md-2"></div>
+	</div>
+</body>
+</html>
