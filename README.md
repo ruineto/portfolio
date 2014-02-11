@@ -13,6 +13,4 @@ portfolio
 
 See the Wiki page for more details, [here](https://github.com/ruineto/portfolio/wiki/Portfolio).
 
-Contact me:
-
-rafnsolutions@gmail.com
+Contact me: rafnsolutions@gmail.com
