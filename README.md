@@ -1,9 +1,6 @@
 portfolio
 =========
 
-This repository is my portfolio that contains all my work and experiences I have.
-
-
 **Hi, my name is Rui Neto.**
 **I'm a student of Integrated Masters in Computer and Telematics Engineering.**
 **I decided to make my own portfolio to present my skills and some of my work and experiencies.**
@@ -11,10 +8,10 @@ This repository is my portfolio that contains all my work and experiences I have
 
 ### Projects:
 * ASP.Net
-  * [[EDC Final Project]]
-  * [[GestorEscolar]]
 * HTML5 & CSS3 & JavaScript
-  * [[VIKI Interface]]
+* Android
+
+See the Wiki page for more details, [here](https://github.com/ruineto/portfolio/wiki/Portfolio).
 
 Contact me:
 
