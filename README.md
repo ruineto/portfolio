@@ -2,8 +2,11 @@ portfolio
 =========
 
 **Hi, my name is Rui Neto.**
+
 **I'm a student of Integrated Masters in Computer and Telematics Engineering.**
+
 **I decided to make my own portfolio to present my skills and some of my work and experiencies.**
+
 **Enjoy it! :)**
 
 ### Projects:
