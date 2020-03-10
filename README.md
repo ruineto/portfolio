@@ -5,7 +5,7 @@ portfolio
 
 **I'm a student of Integrated Masters in Computer and Telematics Engineering.**
 
-**I´ve decided to make my own portfolio to present my skills and some of my work and experiencies.**
+**I´ve decided to make my own portfolio to present my skills and some of my work.**
 
 **Enjoy it! :)**
 
